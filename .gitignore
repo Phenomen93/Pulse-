@@ -21,3 +21,6 @@ yarn-debug.log*
 yarn-error.log*
 
 /.jshintrc
+/gulpfile.js
+/package-lock.json
+/package.json
